@@ -1,5 +1,6 @@
 # ms_epigenomics
-Study Title 
+Study Title :
+
 Identifying Methylation Sites and Interfering RNAs in Multiple Sclerosis Patients Using Human DNA-seq and RNA-seq
 ![image](https://user-images.githubusercontent.com/73958439/163318723-d53b606e-d8f5-4e3a-9924-4dee9dffa1e4.png)
 

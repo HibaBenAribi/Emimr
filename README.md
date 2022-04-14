@@ -2,11 +2,19 @@
 Study Title :
 
 Identifying Methylation Sites and Interfering RNAs in Multiple Sclerosis Patients Using Human DNA-seq and RNA-seq
-![image](https://user-images.githubusercontent.com/73958439/163318723-d53b606e-d8f5-4e3a-9924-4dee9dffa1e4.png)
 
-# About MS
-MS is a neurological disease that affects the Human nervous system. The mechanism and the cause of the disease is yet unknown.
-This study we created an R Script that will perform genetic expression analysis and also Identify their Methylation Sites and Interfering RNAs ( gene expression  regulatory factors)
+# tool:
+R Script that will perform genetic expression analysis and gene expression regulatory factors study :  by Identify their Methylation Sites and Interfering RNAs.
+
+
+![image](https://user-images.githubusercontent.com/73958439/163398003-6bf70d81-f514-4362-885b-34536a1352cf.png)
+
+
+# Different prevalence:
+
+To solve the problem of different prevalence that can be correlated with different genomic, transcriptomic and epigenomic profiles; 
+In this study, we will use data from each prevalence area.
+
 
 # The bioinformatic process
 ![image](https://user-images.githubusercontent.com/73958439/163394665-1fd6c6b6-91de-4302-b420-87937a1e0338.png)

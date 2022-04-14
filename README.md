@@ -17,7 +17,7 @@ In this study, we will use data from each prevalence area.
 
 
 # The bioinformatic process
-![image](https://user-images.githubusercontent.com/73958439/163394665-1fd6c6b6-91de-4302-b420-87937a1e0338.png)
+![image](https://user-images.githubusercontent.com/73958439/163401094-1077cd38-4422-403a-8e66-6c13089af08d.png)
 
 
 The script was simplified to be faster and easier to use. ( No coding skills needed)

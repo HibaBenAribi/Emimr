@@ -33,7 +33,7 @@ The script was simplified to be faster and easier to use. ( No coding skills nee
 
 
 # Result 
-The target gene genomic , epigenomic and trnascriptomic data in MS patients.
+The target gene genomic , epigenomic and transcriptomic data in MS patients.
 
 
 # Contact for data update 

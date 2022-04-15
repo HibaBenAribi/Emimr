@@ -39,11 +39,11 @@ email : benaribi.hiba@gmail.com
 
 
 ## Team 
-Hiba Ben Aribi, Neuroscience Master degree , UTM
+Hiba Ben Aribi, Master in Neuroscience and Biotechnology , UTM
 
-Guerbouj Souheila, Professor in genomics, UTM
+Guerbouj Souheila,Phd molecular biology ,IPT,UTM
 
-Farah Ayadi, Genomic Master  ,UTM
+Farah Ayadi, Master in molecular biology ,UTM
 
 Careen Naitore,bioinformatics and molecular biology, JKUAT
 

@@ -45,7 +45,7 @@ Guerbouj Souheila, Professor in genomics, UTM
 
 Farah Ayadi, Genomic Master  ,UTM
 
-Careen Naitore, Bioinformatics Master , 
+Careen Naitore,bioinformatics and molecular biology, JKUAT
 
 
 

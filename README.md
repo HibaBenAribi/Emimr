@@ -45,7 +45,7 @@ Guerbouj Souheila,Phd in Genetics and molecular biology ,IPT,UTM
 
 Farah Ayadi, Master in molecular biology ,UTM
 
-Careen Naitore,bioinformatics and molecular biology, JKUAT
+Careen Naitore,Master in Bioinformatics and molecular biology, JKUAT
 
 
 

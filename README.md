@@ -1,7 +1,4 @@
-# ms_genomic_study
-Study Title :
-
-Identifying Methylation Sites and Interfering RNAs in Multiple Sclerosis Patients Using Human DNA-seq and RNA-seq data.
+# Identifying Methylation Sites and Interfering RNAs in Multiple Sclerosis Patients Using Human DNA-seq and RNA-seq data.
 
 # tool:
 R Script that will perform genetic expression analysis and gene expression regulatory factors study :  by Identify their Methylation Sites and Interfering RNAs.

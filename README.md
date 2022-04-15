@@ -42,13 +42,13 @@ email : benaribi.hiba@gmail.com
 
 
 ## Team 
-Hiba Ben Aribi
+Hiba Ben Aribi, Neuroscience Master degree , UTM
 
-Guerbouj Souheila
+Guerbouj Souheila, Professor in genomics, UTM
 
-Farah Ayadi
+Farah Ayadi, Genomic Master  ,UTM
 
-Careen Naitore
+Careen Naitore, Bioinformatics Master , 
 
 
 

@@ -14,12 +14,6 @@ In this study, we will use data from each prevalence area.
 # The bioinformatic workflow
 ![workflow](https://user-images.githubusercontent.com/73958439/163676806-83611165-1435-47a1-822c-82b354d1ad5b.jpg)
 
-# Case study
-In order to validate the tool developed in this work, we applied the analysis to STAT3 gene which is implicated in the pathology of MS. 
-
-in order to identify methylated regions and miRNAs susceptible to interact with this gene.
-
-The case study result are availbul in the manuscript.
 
 # Result 
 
@@ -39,6 +33,13 @@ The genetic specific data will be automatically exported in the  working direct
 # Data result interpretation
 
 The significance of the output data are  available in : 
+
+# Case study
+In order to validate the tool developed in this work, we applied the analysis to STAT3 gene which is implicated in the pathology of MS. 
+
+in order to identify methylated regions and miRNAs susceptible to interact with this gene.
+
+The case study result are availbul in the manuscript.
 
 # Suplementary data
 

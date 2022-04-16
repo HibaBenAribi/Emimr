@@ -21,6 +21,21 @@ in order to identify methylated regions and miRNAs susceptible to interact with 
 
 The case study result are availbul in the manuscript.
 
+# Result 
+
+The genetic specific data will be automatically exported in the  working directory folder as 4 txt files:
+
+- The gene expression profile : p value and LogFC
+
+- If the gene is : overexpressed , underexpressed or not differentially expressed.
+
+- List of the  CpG sites that are methylated in the gene specific promoter with supplementary data mainly the B value , DMR (differential methylation or not ), and  the relation to Cpg island
+
+- List of miRNAs that target the gene in healthy condition
+
+- Are these miRNA expressed in disease group or not ( the user need to search for each miRNA separately ).
+
+
 # Data result interpretation
 
 The significance of the output data are  available in : 
@@ -51,21 +66,6 @@ For the methylation profiling data, idat files are the most commun raw data form
 The script could be replicated for multiple pathologies, using starting the data filtering with the pathology keyword and then the same methodology .
 
 More information are available in : 
-
-# Result 
-
-The genetic specific data will be automatically exported in the  working directory folder as 4 txt files:
-
-- The gene expression profile : p value and LogFC
-
-- If the gene is : overexpressed , underexpressed or not differentially expressed.
-
-- List of the  CpG sites that are methylated in the gene specific promoter with supplementary data mainly the B value , DMR (differential methylation or not ), and  the relation to Cpg island
-
-- List of miRNAs that target the gene in healthy condition
-
-- Are these miRNA expressed in disease group or not ( the user need to search for each miRNA separately ).
-
 
 # Contact for data update 
 Tech leader : Hiba Ben Aribi

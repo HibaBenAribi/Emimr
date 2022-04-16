@@ -1,4 +1,4 @@
-# Identifying Methylation Sites and Interfering RNAs in Multiple Sclerosis Patients Using Human DNA-seq and RNA-seq data.
+# Identifying Differentially Expressed Genes, Methylation Sites and Interfering RNAs in Human Genome in relation to pathologies : Application on Multiple Sclerosis Patients 
 
 # tool:
 R Script that will perform genetic expression analysis and gene expression regulatory factors study :  by Identify their Methylation Sites and Interfering RNAs.

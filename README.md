@@ -1,11 +1,9 @@
 # Identifying Differentially Expressed Genes, Methylation Sites and Interfering RNAs in Human Genome in relation to pathologies : Application on Multiple Sclerosis Patients 
 
-# tool:
-R Script that will perform genetic expression analysis and gene expression regulatory factors study :  by Identify their Methylation Sites and Interfering RNAs.
+# The Project aim:
+Creat an R  script that perform a full genomic, transcriptomic and methylation study  and filter the target gene specific data .
 
-
-![image](https://user-images.githubusercontent.com/73958439/163398003-6bf70d81-f514-4362-885b-34536a1352cf.png)
-
+Several researche  have proved that the genomic, transcriptomic and the methylation profils are affected with environmental factors, which creat different prevalence area around the world,
 
 # Different prevalence:
 
@@ -16,9 +14,35 @@ In this study, we will use data from each prevalence area.
 # The bioinformatic workflow
 ![workflow](https://user-images.githubusercontent.com/73958439/163676806-83611165-1435-47a1-822c-82b354d1ad5b.jpg)
 
+# Case study
+
+
+
+
+
+# Suplementary data
+
+
+
+
+
+# Workflow reproducibility
+
+
 
 # Result 
-The target gene genomic , epigenomic and transcriptomic data in MS patients.
+
+The genetic specific data will be automatically exported in the  working directory folder as 4 txt files:
+
+- The gene expression profile : p value and LogFC
+
+- If the gene is : overexpressed , underexpressed or not differentially expressed.
+
+- List of the  CpG sites that are methylated in the gene specific promoter with supplementary data mainly the B value , DMR (differential methylation or not ), and  the relation to Cpg island
+
+- List of miRNAs that target the gene in healthy condition
+
+- Are these miRNA expressed in disease group or not ( the user need to search for each miRNA separately ).
 
 
 # Contact for data update 

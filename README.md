@@ -39,7 +39,7 @@ The case study result are availbul in the manuscript.
 # Suplementary data
 
 All processed not filtered data are provided as supplementary files , so the user can define different settings.
-Option 1 : Change the p value to define  Differencially expressed genes  t the p value used is <0.05)
+Option 1 : Change the p value to define  Differencially expressed genes  ( the p value used is <0.05)
 Option 2 : In the case study we used cpg that exist in the promoter region.
 Supplementary files are provided for "gene associated cpgs " and "non gene asssociated cpgs"
 

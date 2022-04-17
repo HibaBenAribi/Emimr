@@ -12,7 +12,7 @@ library(readxl)
 expression_high <- read_excel("expression_high.xlsx")
 
 e<- expression_high %>%
-     filter(Gene.symbol== "STAT3")
+     filter(gene == "STAT3")
 e
 write.table(e,"expression_profile_high.txt")
 

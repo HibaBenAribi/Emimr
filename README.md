@@ -68,6 +68,23 @@ The script could be replicated for multiple pathologies, using starting the data
 
 More information are available in : 
 
+# References 
+
+1. Dupont C, Armant DR, Brenner CA. (2009), “Epigenetics: definition, mechanisms and clinical perspective”. Semin Reprod Med.;27(5):351-7. doi: 10.1055/s-0029-1237423. Epub 2009 Aug 26. PMID: 19711245; PMCID: PMC2791696.
+
+
+2. Eslahi, Maede & Nematbakhsh, Negin & Dastmalchi, Narges & Teimourian, Shahram & Safaralizadeh, Reza., (2022). “An Updated Review of Epigenetic-Related Mechanisms and Their Contribution to Multiple Sclerosis Disease”. CNS & Neurological Disorders - Drug Targets (Formerly Current Drug Targets - CNS & Neurological Disorders). 10.2174/1871527321666220119104649. 
+
+
+3. Wang, H., Li, Y., Ryder, J.W. et al. (2013), “Genome-wide RNAseq study of the molecular mechanisms underlying microglia activation in response to pathological tau perturbation in the rTg4510 tau transgenic animal model”. Mol Neurodegeneration 13.
+
+4. Dharshini S. Akila Parvathy, Jemimah Sherlyn, Taguchi Y. H., Gromiha M. Michael (2021), “Exploring Common Therapeutic Targets for Neurodegenerative Disorders Using Transcriptome Study “, Frontiers in Genetics volume 12. 
+
+5. Moore LD, Le T, Fan G. (2013), “DNA methylation and its basic function”. Neuropsychopharmacology.
+
+
+6. Hop, PJ Luijk, RDaxinger, L. et al. (2020), “Genome-wide identification of genes regulating DNA methylation using genetic anchors for causal inference”. Genome Biol 21, 220.
+
 # Contact for data update 
 Tech leader : Hiba Ben Aribi
 email : benaribi.hiba@gmail.com

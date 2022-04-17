@@ -29,11 +29,6 @@ The genetic specific data will be automatically exported in the  working direct
 
 - Are these miRNA expressed in disease group or not ( the user need to search for each miRNA separately ).
 
-
-# Data result interpretation
-
-The significance of the output data are  available in : 
-
 # Case study
 In order to validate the tool developed in this work, we applied the analysis to STAT3 gene which is implicated in the pathology of MS. 
 
@@ -48,25 +43,12 @@ Option 1 : Change the p value to define  Differencially expressed genes  t the p
 Option 2 : In the case study we used cpg that exist in the promoter region.
 Supplementary files are provided for "gene associated cpgs " and "non gene asssociated cpgs"
 
-More information are available in : 
+More information are available in : Reproducibility guide.pdf part 1
 
 # Workflow reproducibility
 
-For the genetic profiling data , multiple analyzing methods were used and mentioned in the manuscript , for different data format on GEO database : 
-
-- Analysis of Fastq files from SRA database
-
-- Analysis of Count txt files
-
-- Analysis of CEL files
-
-- And GEO2R tool for big size data.
-
-For the methylation profiling data, idat files are the most commun raw data format.
-
-The script could be replicated for multiple pathologies, using starting the data filtering with the pathology keyword and then the same methodology .
-
-More information are available in : 
+The work flow could be reproduced for other pathologies data available on GEO database.
+More information are available in : Reproducibility guide.pdf part 2
 
 # References 
 

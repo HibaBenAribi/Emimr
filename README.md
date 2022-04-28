@@ -12,7 +12,7 @@ In this study, we will use data from each prevalence area.
 
 
 # Workflow
-![workflow](https://user-images.githubusercontent.com/73958439/163676806-83611165-1435-47a1-822c-82b354d1ad5b.jpg)
+![workflow](https://user-images.githubusercontent.com/73958439/165700993-f1fd7724-1c20-473c-8f4d-714cc8a2c3b2.jpg)
 
 
 # Result 
@@ -23,7 +23,7 @@ The genetic specific data will be automatically exported in the  working direct
 
 - If the gene is : overexpressed , underexpressed or not differentially expressed.
 
-- List of the  CpG sites that are methylated in the gene specific promoter with supplementary data mainly the B value , DMR (differential methylation or not ), and  the relation to Cpg island
+- List of the  CpG sites that are methylated in the gene specific promoter with supplementary data mainly the B value, and  the relation to Cpg island
 
 - List of miRNAs that target the gene in healthy condition
 

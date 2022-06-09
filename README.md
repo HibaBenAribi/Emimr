@@ -1,7 +1,7 @@
-# Identifying Differentially Expressed Genes, Methylation Sites and Interfering RNAs in Human Genome in relation to pathologies : Application on Multiple Sclerosis Patients 
+# Transcriptomic and Epigenomic Changes in Multiple Sclerosis, a Bioinformatics Analysis
 
 # The Project aim:
-Creat an R  script that perform a full genomic, transcriptomic and methylation study  and filter the target gene specific data .
+Creat a pipeline that perform a full genomic, transcriptomic and methylation study  and filter the target gene specific data .
 
 Several researche  have proved that the genomic, transcriptomic and the methylation profils are affected with environmental factors, which creat different prevalence area around the world,
 

@@ -1,13 +1,19 @@
-# Transcriptomic and Epigenomic Changes in Multiple Sclerosis, a Bioinformatics Analysis
+# Transcriptomic and Epigenomic Changes in  Autoimmune Demyelinating Diseases: A Bioinformatics Analysis
 
 # The Project aim:
-Creat a pipeline that perform a full genomic and epigenomicsdata analysis and filter the target gene specific data .
+1. Creat a pipeline that perform the correlation between  genomic and epigenomics data and filter gene specific data id demande.
+2. Analyze genomic and epigenomics data of MS disease
+3. Analyze genomic and epigenomics data of SLE disease
+4. Compare the two diseases data
+
+
+# Pipeline workflow
+![workflow](https://user-images.githubusercontent.com/73958439/174091995-b8f8dc44-c54f-4d68-b17a-3f6f25da2d99.png)
 
 
 
 # Contact for data update 
-Tech leader : Hiba Ben Aribi
-email : benaribi.hiba@gmail.com
+Hiba Ben Aribi : benaribi.hiba@gmail.com
 
 
 ## Team  Members

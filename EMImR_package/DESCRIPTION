@@ -1,0 +1,17 @@
+Package: EMImR
+Type: Package
+Title: Correlation between expression, methylation and interfering miRNA data.
+Version: 0.1.0
+Author: Ben Aribi hiba
+Maintainer: The package maintainer <benaribi.hiba@gmail.com>
+Description: Intersection between differentially expressed genes, differentially methylated genes and differentially expressed interfering miRNAs data. And Filter gene specific data.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    openxlsx,
+    readxl,
+    stringr,
+    survival
+RoxygenNote: 7.2.0

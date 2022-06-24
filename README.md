@@ -1,16 +1,17 @@
 # Transcriptomic and Epigenomic Changes in  Autoimmune Demyelinating Diseases: A Bioinformatics Analysis
 
-# The Project aim:
-1. Creat a pipeline that perform the correlation between  genomic and epigenomics data and filter gene specific data id demande.
-2. Analyze genomic and epigenomics data of MS disease
-3. Analyze genomic and epigenomics data of SLE disease
-4. Compare the two diseases data
-
+# STEP 1: EMImR package creation
 
 # Pipeline workflow
 ![workflow](https://user-images.githubusercontent.com/73958439/174091995-b8f8dc44-c54f-4d68-b17a-3f6f25da2d99.png)
 
 
+# STEP2 : Pipeline validation
+# The study aim:
+1. Creat a pipeline that perform the correlation between  genomic and epigenomics data and filter gene specific data id demande.
+2. Analyze genomic and epigenomics data of MS disease
+3. Analyze genomic and epigenomics data of SLE disease
+4. Compare the two diseases data
 
 # Contact for data update 
 Hiba Ben Aribi : benaribi.hiba@gmail.com

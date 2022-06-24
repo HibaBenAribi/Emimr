@@ -21,10 +21,14 @@ Hiba Ben Aribi : benaribi.hiba@gmail.com
 
 
 ## Team  Members
-Hiba Ben Aribi, Master in Neuroscience and Biotechnology , UTM
-Careen Naitore,Master in Bioinformatics and molecular biology, JKUAT
-Guerbouj Souheila,Phd in Genetics and molecular biology ,UTM
-Farah Ayadi, Master in molecular biology ,UTM
+Hiba Ben Aribi, Master in Neuroscience and Biotechnology , UTM.
+
+Careen Naitore,Master in Bioinformatics and molecular biology, JKUAT.
+
+Guerbouj Souheila,Phd in Genetics and molecular biology ,UTM.
+
+Farah Ayadi, Master in molecular biology ,UTM.
+
 
 
 

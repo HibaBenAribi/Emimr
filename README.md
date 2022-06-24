@@ -1,6 +1,9 @@
 # Transcriptomic and Epigenomic Changes in  Autoimmune Demyelinating Diseases: A Bioinformatics Analysis
 
 # STEP 1: EMImR package creation
+#
+#
+#
 
 # Pipeline workflow
 ![workflow](https://user-images.githubusercontent.com/73958439/174091995-b8f8dc44-c54f-4d68-b17a-3f6f25da2d99.png)
@@ -18,10 +21,10 @@ Hiba Ben Aribi : benaribi.hiba@gmail.com
 
 
 ## Team  Members
-Hiba Ben Aribi, Master in Neuroscience and Biotechnology , UTM
-Careen Naitore,Master in Bioinformatics and molecular biology, JKUAT
-Guerbouj Souheila,Phd in Genetics and molecular biology ,UTM
-Farah Ayadi, Master in molecular biology ,UTM
+# Hiba Ben Aribi, Master in Neuroscience and Biotechnology , UTM
+# Careen Naitore,Master in Bioinformatics and molecular biology, JKUAT
+# Guerbouj Souheila,Phd in Genetics and molecular biology ,UTM
+# Farah Ayadi, Master in molecular biology ,UTM
 
 
 

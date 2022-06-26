@@ -6,7 +6,7 @@ Authors@R:
            comment = c(ORCID = "0000-0001-9547-8725"))
 Description: What the package does (one paragraph).
 License: GPL-3
-Encoding: UTF-8
+Encoding: MIT
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0

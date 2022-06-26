@@ -2,12 +2,17 @@
 
 # STEP 1: EMImR package creation
 To download the package :
-devtools::install_github("omicscodeathon/ms_epigenomics/EMImR_package")
-library(EMImR)
+devtools::install_github("omicscodeathon/ms_epigenomics/EMImR_package").
+
+library(EMImR).
+
 
 Import also the following packages:
+
 library(dplyr) 
+
 library(openxlsx)
+
 library(rlang)
 
 

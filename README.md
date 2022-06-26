@@ -1,9 +1,15 @@
 # Transcriptomic and Epigenomic Changes in  Autoimmune Demyelinating Diseases: A Bioinformatics Analysis
 
 # STEP 1: EMImR package creation
-#
-#
-#
+To download the package :
+devtools::install_github("omicscodeathon/ms_epigenomics/EMImR_package")
+library(EMImR)
+
+Import also the following packages:
+library(dplyr) 
+library(openxlsx)
+library(rlang)
+
 
 # Pipeline workflow
 ![workflow](https://user-images.githubusercontent.com/73958439/174091995-b8f8dc44-c54f-4d68-b17a-3f6f25da2d99.png)

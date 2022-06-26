@@ -17,14 +17,17 @@ library(rlang)
 
 # STEP2 : Pipeline validation
 # The study aim:
-1. Creat a pipeline that perform the correlation between  genomic and epigenomics data and filter gene specific data id demande.
-2. Analyze genomic and epigenomics data of MS disease
-3. Analyze genomic and epigenomics data of SLE disease
-4. Compare the two diseases data
+The developed package was used to study Transcriptomic and Epigenomic Changes in  Autoimmune Demyelinating Diseases: MS and SLE.
 
+After analysing the gene expression , cpg methylation in the promoter region, and interfering miRNAs data; the EMImR package was used to determine:
+- DEGs
+- DMGs
+- genes associated to DEmR (GDEIRs)
+- the intersections to determine which DEGs are the result of cpgs methylation and which are affected by interfering miRNAs.
+Each disease data were studied seperatly , then we compared the two diseases data.
+The study result are published in the following article: Transcriptomic and Epigenomic Changes in  Autoimmune Demyelinating Diseases: A Bioinformatics Analysis.
 # Contact for data update 
 Hiba Ben Aribi : benaribi.hiba@gmail.com
-
 
 ## Team  Members
 Hiba Ben Aribi, Master in Neuroscience and Biotechnology , UTM.

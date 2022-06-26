@@ -1,0 +1,16 @@
+Package: emimr
+Title: Correlate expression, methylation and miRNA data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Hiba", "Ben Aribi", , "benaribi.hiba@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9547-8725"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports: 
+    dplyr,
+    openxlsx,
+    rlang

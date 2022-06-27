@@ -1,10 +1,10 @@
-Package: emimr
+mPackage: emimr
 Title: Correlate expression, methylation and miRNA data
 Version: 0.0.0.9000
 Authors@R: 
     person("Hiba", "Ben Aribi", , "benaribi.hiba@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9547-8725"))
-Description: What the package does (one paragraph).
+Description: first,determine DEGs, DMGs and GDEIRs . then performs intersection between the expression, methylation and miRNA data. and filter a specific gene data.
 License: GPL-3
 Encoding: MIT
 LazyData: true

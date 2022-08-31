@@ -59,7 +59,7 @@ Each disease data were studied seperatly , then we compared the two diseases dat
 Hiba Ben Aribi : benaribi.hiba@gmail.com
 
 ## Acknowledgements
-This project was performed during the October 2022 Omics codeathon organized in collaboration with the African Society for Bioinformatics and Computational Biology (ASBCB). The authors thank the National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) and the National Center for Biotechnology Information (NCBI) for their immense support before and during the codeathon.
+This project was performed during the April 2022 Omics codeathon organized in collaboration with the African Society for Bioinformatics and Computational Biology (ASBCB). The authors thank the National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) and the National Center for Biotechnology Information (NCBI) for their immense support before and during the codeathon.
 
 
 ## Team  Members

@@ -8,7 +8,7 @@ devtools::install_github("omicscodeathon/emimr/EMImR_package")
 library(EMImR).
 
 
-## RequirementImport also the following packages:
+## Requirement
 The package requires 3 external packages : “dplyr” , “rlang” and “openxlsx”.
 
 library(dplyr)

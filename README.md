@@ -31,6 +31,7 @@ The package consists of 3 functions: the “emimr” function, the “emimr_coun
 To perform the analysis the user needs to define the three data frames to be used.
 
 Genes_table <- emimr(expression = dataframe1, methylation = dataframe2, miRNA = dataframe3)
+
 Counts <- emimr_count(emimr_result = genes_table)
 
 * The “GSDF” function filters the specific data for a target_gene. This function is independent from the  “emimr” function. 

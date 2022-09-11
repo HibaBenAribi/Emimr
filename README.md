@@ -45,6 +45,7 @@ gene_data <- GSDF(expression = dataframe1, methylation = dataframe2, miRNA = dat
 ## Case study : Transcriptomic and Epigenomic Changes in  Autoimmune Demyelinating Diseases: MS and SLE.
 
 After analysing the gene expression , cpg methylation in the promoter region, and interfering miRNAs data; the EMImR package was used to determine:
+
   - DEGs
   
   - DMGs

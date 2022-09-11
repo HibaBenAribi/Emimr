@@ -3,9 +3,9 @@
 ## The EMImR package 
 The package could be installed in R studio using this command :
 
-devtools::install_github("omicscodeathon/emimr/EMImR_package")
+devtools::install_github("omicscodeathon/emimr/emimr_package")
 
-library(EMImR).
+library(emimr).
 
 
 ## Requirement

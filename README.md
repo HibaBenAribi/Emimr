@@ -1,22 +1,17 @@
-# The EMImR R package for Transcriptomic and Epigenomic Changes Identification
+# The EMImR a Shiny Application for Transcriptomic and Epigenomic Changes Identification
 
-## Installation
-The package could be installed in R studio using this command :
 
-devtools::install_github("omicscodeathon/emimr/emimr_package")
+## Function
+The application's main function is to identify the intersection between genetic and epigenetic modififcations, including :
 
-library(emimr)
+* Identify the differentially expressed genes (DEGs)
+  
+* Identify the differentially methylated genes (DMGs)  
 
-## Package workflow
-![workflow](https://user-images.githubusercontent.com/73958439/174091995-b8f8dc44-c54f-4d68-b17a-3f6f25da2d99.png)
+* Determine DEGs associated with DMGs
+  
+* Identify the genes associated to differentially expressed interfering miRNA (GDEImRs).
 
-## Functions
-The package main function is to identify the intersection between genetic and epigenetic modififcations, including :
+* Determine DEGs associated with  differentially expressed interfering miRNA 
 
-* The differentially expressed genes (DEGs), differentially methylated genes (DMGs) and genes associated to differentially expressed interfering miRNA (GDEImRs).
-
-* The intersection between the three datasets. The common genes between each two datasets are then determined.
-
-* Calculates the genes number in all the categories from the  “emimr” function result.
-
-* filters target genes data.
+* Performe Ontology analysis for all gene groups

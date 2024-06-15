@@ -1,4 +1,4 @@
-# The EMImR a Shiny Application for Transcriptomic and Epigenomic Changes Identification
+# EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes
 
 ## Table of Contents
 1.  [About EMImR](#About-EMImR])
@@ -19,30 +19,30 @@ EMImR is a Shiny Application for Transcriptomic and Epigenomic Changes Identific
     - Internet requirement: Only if using an online server
     - Third-party tools requirement: R studio or an online Server
     - Pre-requirements: R  installation
-    
+
 ## Function
 
 The application's main function is to identify the intersection between genetic and epigenetic modififcations, including :
 
 * Identify the differentially expressed genes (DEGs)
-  
+
 * Identify the differentially methylated genes (DMGs)  
 
 * Determine DEGs associated with DMGs
-  
+
 * Identify the genes associated to differentially expressed interfering miRNA (GDEImRs).
 
 * Determine DEGs associated with  differentially expressed interfering miRNA
-  
+
 ## Usage Guidelines
 
-                                                                                                           
+
 **Step 1 :** Install dependencies
-    
+
     Install the latest version of R if your computer does not have it: [R](https://cran.r-project.org/bin/windows/base/)   
-    
+
             ### How To Install R and RStudio
-            - Go to This Website : https://posit.co/download/rstudio-desktop/ 
+            - Go to This Website : https://posit.co/download/rstudio-desktop/
 ![image](https://github.com/omicscodeathon/Exvar/assets/73958439/62b7eda6-c7af-47a2-aec9-fe14aae68e50)
 
             -  Download R for you specific Operating System (OS). R 4.2.1 version is recommended [Link to version 4.2.1](https://cran.r-project.org/bin/windows/base/old/4.2.1/)
@@ -52,14 +52,14 @@ The application's main function is to identify the intersection between genetic 
            - Download RStudio
 
 **Step 2 :** Download the application
-   
+
     Download the application folder   
-    
-**Step 3 :** Open the application 
+
+**Step 3 :** Open the application
 
     - Open the application folder using RStudio   
 
-    - Set the folder as a working directory 
+    - Set the folder as a working directory
 
     - Then open the file named "Run_App.R"
 
@@ -74,6 +74,3 @@ All dependencies will be installed automaticly and the application's dashboard w
 Import Files, define parameters, then click "Submit".
 
 ![image](https://github.com/omicscodeathon/emimr/assets/73958439/6df50b3d-21c0-4640-bc99-dab5da4b8669)
-
-
-

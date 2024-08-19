@@ -8,26 +8,14 @@
 ## Table of Contents
 1.  [About EMImR](#About-EMImR])
 2.  [Demonstration Video](#Demonstration_Video)
-3.  [Implementation and  Operation](#Implementation_and_Operation)
-4.  [Functions](#Functions)
-5. [Usage Guidelines](#Usage_Guidelines)
+3.  [Usage Guidelines](#Usage_Guidelines)
+4.  [Implementation and  Operation](#Implementation_and_Operation)
 <br>
 
 
 ## About EMImR
 
 EMImR is a Shiny Application for Transcriptomic and Epigenomic Changes Identification and data correlation.
-
-## Demonstration Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=cYZ8WOvabJs">
-    <img src="https://raw.githubusercontent.com/HibaBenAribi/Emimr/main/assets/emimr_yt.png" alt="emimr" width="700" />
-  </a>
-</p> 
-
-
-## Function
 
 The application's main function is to identify the intersection between genetic and epigenetic modififcations, including :
 
@@ -40,6 +28,16 @@ The application's main function is to identify the intersection between genetic 
 * Identify the genes associated to differentially expressed interfering miRNA (GDEImRs).
 
 * Determine DEGs associated with  differentially expressed interfering miRNA
+
+## Demonstration Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=cYZ8WOvabJs">
+    <img src="https://raw.githubusercontent.com/HibaBenAribi/Emimr/main/assets/emimr_yt.png" alt="emimr" width="700" />
+  </a>
+</p> 
+
+
 
 
 ## Usage Guidelines

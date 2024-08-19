@@ -1,14 +1,16 @@
 # EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HibaBenAribi/Emimr/main/emimr-logo.png" alt="emimr logo" width="300"  />
 </p>
+
+
 ## Table of Contents
 1.  [About EMImR](#About-EMImR])
-2.  [Implementation and  Operation](#Implementation_and_Operation)
-3.  [Functions](#Functions)
-4. [Usage Guidelines](#Usage_Guidelines)
+2.  [Demonstration Video](#Demonstration_Video)
+3.  [Implementation and  Operation](#Implementation_and_Operation)
+4.  [Functions](#Functions)
+5. [Usage Guidelines](#Usage_Guidelines)
 <br>
 
 
@@ -16,13 +18,14 @@
 
 EMImR is a Shiny Application for Transcriptomic and Epigenomic Changes Identification and data correlation.
 
-## Implementation and  Operation
+## Demonstration Video
 
-    - platform-independent
-    - all dependencies are installed automatically with the tool
-    - Internet requirement: Only if using an online server
-    - Third-party tools requirement: R studio or an online Server
-    - Pre-requirements: R  installation
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=cYZ8WOvabJs">
+    <img src="https://raw.githubusercontent.com/HibaBenAribi/Emimr/main/emimr-logo.png" alt="emimr" width="700" />
+  </a>
+</p> 
+
 
 ## Function
 
@@ -37,6 +40,7 @@ The application's main function is to identify the intersection between genetic 
 * Identify the genes associated to differentially expressed interfering miRNA (GDEImRs).
 
 * Determine DEGs associated with  differentially expressed interfering miRNA
+
 
 ## Usage Guidelines
 
@@ -72,6 +76,14 @@ The application's main function is to identify the intersection between genetic 
 Run the app code by cicking on the "Run APP" button
 
 All dependencies will be installed automaticly and the application's dashboard will appear.
+
+## Implementation and  Operation
+
+    - platform-independent
+    - all dependencies are installed automatically with the tool
+    - Internet requirement: Only if using an online server
+    - Third-party tools requirement: R studio or an online Server
+    - Pre-requirements: R  installation
 
 **Step 5:**
 

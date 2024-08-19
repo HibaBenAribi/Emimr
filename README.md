@@ -1,7 +1,7 @@
 # EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HibaBenAribi/Emimr/main/emimr-logo.png" alt="emimr logo" width="300"  />
+  <img src="https://raw.githubusercontent.com/HibaBenAribi/Emimr/main/assets/emimr-logo.png" alt="emimr logo" width="300"  />
 </p>
 
 
@@ -22,7 +22,7 @@ EMImR is a Shiny Application for Transcriptomic and Epigenomic Changes Identific
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=cYZ8WOvabJs">
-    <img src="https://raw.githubusercontent.com/HibaBenAribi/Emimr/main/emimr-logo.png" alt="emimr" width="700" />
+    <img src="https://raw.githubusercontent.com/HibaBenAribi/Emimr/main/assets/emimr_yt.png" alt="emimr" width="700" />
   </a>
 </p> 
 
